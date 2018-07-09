@@ -8,7 +8,7 @@ Requires PHP: 5.3.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Simple Mailchimp newsletter subscription slide-out box with social follow buttons.
+Simple Mailchimp newsletter subscription slide-out box with social profile links.
 
 == Description ==
 
@@ -22,6 +22,7 @@ The plugin will be suitable for you if you are looking for:-
 *   Optionally, show the follow buttons for facebook, twitter, linkedin.
 
 We created this plugin for our very own use. It is used live on [BuddyDev.com](https://buddydev.com).
+
 
 === credit ===
 This project uses following opensource projects:-
@@ -43,7 +44,10 @@ This project uses following opensource projects:-
 == Screenshots ==
 
 1. Slide subscription box screenshot-1.png
-2. social subscribe box settings screenshot-1.png
+2. social subscribe box settings for newsletter screenshot-2.png
+3. social subscribe box settings for social links screenshot-3.png
+3. social subscribe box settings for social appearance screenshot-4.png
+3. Customize option screenshot-5.png
 
 == Changelog ==
 
