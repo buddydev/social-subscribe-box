@@ -2,7 +2,7 @@
 Contributors: buddydev,raviousprime,sbrajesh,
 Tags: mailchimp, mailchimp-subscription, newsletter, newsletter-subscription, slideout, email-subscription, follow-box, social-follow
 Requires at least: 4.7
-Tested up to: 4.9.6
+Tested up to: 4.9.7
 Stable tag: 1.0.0
 Requires PHP: 5.3.0
 License: GPLv2 or later
@@ -31,6 +31,10 @@ This project uses following opensource projects:-
  * [Mailchimp API](https://github.com/drewm/mailchimp-api)
  * [jQuery Cookie] (https://https://github.com/carhartl/jquery-cookie)
  * [Twemoji] (https://github.com/twitter/twemoji) - icons.
+
+Share your feedback on our [blog post](https://buddydev.com/opensourcing-our-mailchimp-addon-for-wordpress/)
+
+For support, Please use [BuddyDev Forums](https://buddydev.com/support/forums/).
 
 == Installation ==
 
